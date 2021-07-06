@@ -100,7 +100,7 @@ Licensed under the MIT license
 		}
 
 		// define basic api endpoint
-		let apiURL = '//api.openweathermap.org/data/2.5/weather?lang='+s.lang;
+		let apiURL = 'http://api.openweathermap.org/data/2.5/weather?lang='+s.lang;
 
 		let weatherObj;
 
